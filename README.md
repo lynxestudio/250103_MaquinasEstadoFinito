@@ -1,2 +1,3 @@
-# 250103_MaquinasEstadoFinito
-Notas acerca de las maquinas de estado finito.
+# Notas acerca de las maquinas de estado finito.
+
+
